@@ -18,7 +18,7 @@ Esta é a primeira versão do aplicativo. Nela, foi incluído uma Interface simp
    (Substitua "link" pelo link fornecido para clonagem do repositório)
 6. Após clonar o repositório, execute o arquivo `.cmd` para configurar o ambiente virtual e instalar as bibliotecas necessárias com o seguinte comando:
    ```
-   ./run.cmd
+   .Flet/run.cmd
    ```
 7. Aguarde até que a configuração e instalação sejam concluídas.
 
